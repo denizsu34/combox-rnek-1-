@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\bin\Debug\combox örnek 1_1681.exe.config
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\bin\Debug\combox örnek 1_1681.exe
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\bin\Debug\combox örnek 1_1681.pdb
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox örnek 1_1681.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox örnek 1_1681.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox_örnek_1_1681.Form1.resources
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox_örnek_1_1681.Properties.Resources.resources
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox örnek 1_1681.csproj.GenerateResource.cache
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox örnek 1_1681.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox örnek 1_1681.exe
+C:\Users\User\source\repos\combox örnek 1_1681\combox örnek 1_1681\obj\Debug\combox örnek 1_1681.pdb
